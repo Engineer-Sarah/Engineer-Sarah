@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sarah
+# 👋 Hi, I'm Sarah Abrar Khokher
 
 ### 🎓 Undergraduate Software Engineering Student
 **AI & Software Development • Automation • UI/UX • Cybersecurity**
@@ -137,7 +137,7 @@ I enjoy learning by building practical projects and turning ideas into working s
 <div align="center">
 
 **GitHub** → <a href="https://github.com/Engineer-Sarah">Engineer-Sarah</a>  
-**LinkedIn** → <a href="https://www.linkedin.com/in/sarah-khokher">Sarah Khokher</a>  
+**LinkedIn** → <a href="https://www.linkedin.com/in/sarah-khokher">Sarah Abrar Khokher</a>  
 **Email** → <a href="mailto:sarahabrar.09@gmail.com">sarahabrar.09@gmail.com</a>
 
 <br>
